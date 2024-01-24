@@ -1,0 +1,11 @@
+body {
+    font: normal 14pt Arial;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration-line: unset;
+}
