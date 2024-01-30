@@ -30,5 +30,5 @@
 <hr>
 
 <p>
-    Lembrando que todo o crédito (produção do poema e da foto ao lado) vai à <strong>Milton Duarte</strong>. E também todo o crédito de planejamento da estrutura do site vai ao <strong>Gustavo Guanabara</strong> professor do CursoEmVídeo; o que eu fiz faz parte de um dos desafios que ele propôs no curso.
+    Lembrando que todo o crédito (produção do poema e da foto acima) vai à <strong>Milton Duarte</strong>. E também todo o crédito de planejamento da estrutura do site vai ao <strong>Gustavo Guanabara</strong> professor do CursoEmVídeo; o que eu fiz faz parte de um dos desafios que ele propôs no curso.
 </p>
