@@ -1,6 +1,6 @@
 # Heitor Rodrigues de Paula
-<img align="right" src="">
 ## Curso de HTML5 e CSS3 do CursoEmVídeo
+<img align="right" src="mascote-cursoemvideo.png">
 <p>
  <img align="right" src="Android-icon-pq-pq.png" alt="Imagem Android" >
 </p>
