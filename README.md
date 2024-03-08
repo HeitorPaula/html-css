@@ -2,9 +2,9 @@
 
 ## Curso de HTML5 e CSS3 do CursoEmVídeo
 
-<img align="right" src="mascote-cursoemvideo.png">
+<img align="right" src="Imagens-README/mascote-cursoemvideo.png">
 <p>
- <img align="right" src="Android-icon-pq-pq.png" alt="Imagem Android" >
+ <img align="right" src="Imagens-README/Android-icon-pq-pq.png" alt="Imagem Android" >
 </p>
  <p>Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!</p>
 
@@ -17,7 +17,7 @@
 
 ##
 <p>
- <img align="right" src="CordelModerno-MiltonDuarte-m.png" alt="Imagem Android" >
+ <img align="right" src="Imagens-README/CordelModerno-MiltonDuarte-m.png" alt="Imagem Android" >
 </p>
 
 <p style="text-align: justify; width: 700px;">
